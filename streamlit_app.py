@@ -1,5 +1,5 @@
-import streamlit as s
-s.title('Tutorial about snowflake')
+import streamlit 
+streamlit.title('Tutorial about snowflake')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
